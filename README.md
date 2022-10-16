@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Web development full stack projects.
-- 📫 Reach me throuh from below social networks.
+- 📫 Reach me through from below social networks.
     - instagram : https://www.instagram.com/chandra_shekar._._/
     - mail : chandrashekar.mekala2001@gmail.com
     
